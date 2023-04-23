@@ -6,3 +6,8 @@ print(type(thistuple))
 thistuple = ("apple")
 print(type(thistuple))
 print("Guru99")
+
+#!/bin/bash
+while IFS= read -r line; do
+   echo "$line"
+done <filename.txt
