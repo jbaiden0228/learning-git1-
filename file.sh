@@ -1,2 +1,9 @@
 1234567890
-print("Hello, World!")print("Hello, World!")
+thistuple = ("apple",)
+print(type(thistuple))
+
+#NOT a tuple
+thistuple = ("apple")
+print(type(thistuple))
+<p 
+="About W3Schools">W3Schools is a web developer's site.</p>
