@@ -2,4 +2,4 @@
 thistuple = ("apple",)
 print(type(thistuple))
 
-#NOT a tup
+
